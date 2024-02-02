@@ -1,0 +1,5 @@
+Info (10281): Verilog HDL Declaration information at mainmodule.v(12): object "ld_d" differs only in case from object "ld_D" in the same scope File: W:/Project/mainmodule.v Line: 12
+Info (10281): Verilog HDL Declaration information at mainmodule.v(13): object "ld_alu_out" differs only in case from object "ld_Alu_Out" in the same scope File: W:/Project/mainmodule.v Line: 13
+Info (10281): Verilog HDL Declaration information at mainmodule.v(14): object "alu_select_a" differs only in case from object "Alu_Select_A" in the same scope File: W:/Project/mainmodule.v Line: 14
+Info (10281): Verilog HDL Declaration information at mainmodule.v(14): object "alu_select_b" differs only in case from object "Alu_Select_B" in the same scope File: W:/Project/mainmodule.v Line: 14
+Info (10281): Verilog HDL Declaration information at mainmodule.v(15): object "alu_op" differs only in case from object "Alu_Op" in the same scope File: W:/Project/mainmodule.v Line: 15

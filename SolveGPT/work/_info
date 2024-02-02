@@ -1,0 +1,152 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/ECE241/Labs/Project
+vcontrol1
+Z1 !s110 1701313102
+!i10b 1
+!s100 6oY87oFAg^G]6Pz9ZkRQH2
+I=57[D2;>mMfSAOLN7Y7_I1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1701310052
+Z4 8ProjectFSM.v
+Z5 FProjectFSM.v
+L0 34
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1701313102.000000
+Z8 !s107 ProjectFSM.v|
+Z9 !s90 -reportprogress|300|ProjectFSM.v|
+!i113 1
+Z10 tCvgOpt 0
+vcontrol2
+R1
+!i10b 1
+!s100 JimYWO<`2USO_mkln`z9O1
+Io5mLn7SBBL_[C1ncIZC9z1
+R2
+R0
+R3
+R4
+R5
+L0 328
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vdatapath1
+R1
+!i10b 1
+!s100 0Snm>;HGa3W^>=ddT8l1h1
+I:_?138P3LjT5z4fz3bZMS3
+R2
+R0
+R3
+R4
+R5
+L0 195
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vdatapath2
+R1
+!i10b 1
+!s100 ;nII;8^flBXC37OaigG100
+ISj6@PoFSQlK6=8NOEK3zU0
+R2
+R0
+R3
+R4
+R5
+L0 518
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vDivCkt
+!s110 1701279721
+!i10b 1
+!s100 A7BBW4[Y5aidRTX^FP6G<0
+IAhAUEgY[7hzSjaGU>PRhJ2
+R2
+R0
+w1701279519
+R4
+R5
+L0 646
+R6
+r1
+!s85 0
+31
+!s108 1701279721.000000
+R8
+R9
+!i113 1
+R10
+n@div@ckt
+vProjectFSM
+R1
+!i10b 1
+!s100 zXgdjCoRU]cAHB4iG4FMB2
+IJnMI@[lgi;YlQl`^6`gMk1
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@project@f@s@m
+vsqrt
+!s110 1701278558
+!i10b 1
+!s100 Z:lClbFhWo;Ek=nPYBT1o3
+IL<E[_<[JC1CjK_;h4XY^61
+R2
+R0
+w1701276406
+8sqrt.v
+Fsqrt.v
+L0 39
+R6
+r1
+!s85 0
+31
+!s108 1701278558.000000
+!s107 sqrt.v|
+!s90 -reportprogress|300|sqrt.v|
+!i113 1
+R10
